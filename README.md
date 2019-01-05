@@ -4,7 +4,7 @@ Setup the environment and install tesseract from installer for ocr
 Also install all dependencies
 
 <b>Using the image denoiser and ocr</b>
-1. Change the path in the script to point to your image
+1. Change the path in the script to point to your image(currently set to example image)
 2. Run the script
 
 <b>Using the pdf to image converter,image denoiser and ocr</b>
